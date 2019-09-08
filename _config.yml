@@ -71,8 +71,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_track_id:       # Format: UA-xxxxxx-xx
+ga_domain: 
 
 
 
@@ -103,37 +103,35 @@ page-mathjax: false
 # Friends
 friends: [
     {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
+    #     title:
+    #     href: 
     # },{
-        title: "乱序",
-        href: "http://mida.re/"
+        title:
+        href:
     },{
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
+        title: 
+        href: 
     },{
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
+        title: 
+        href: 
     },{
-        title: "Luke 的自留地",
-        href: "http://hmqk1995.github.io"
+        title:
+        href: 
     },{
-        title: "Ebn's Blog",
-        href: "http://ebnbin.com/"
+        title: 
+        href:
     },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
+        title: 
+        href: 
+        hre
     },{
-        title: "David's Game",
-        href: "https://www.ruoyaowu.com/"
+        title: 
+        href: 
     },{
-        title: "DHong Say",
-        href: "http://dhong.co"
+        title: 
+        href: 
     },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
-    },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
+        title: 
+        href: 
     }
 ]

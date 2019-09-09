@@ -101,37 +101,4 @@ page-mathjax: false
 
 
 # Friends
-friends: [
-    {
-    #     title:
-    #     href: 
-    # },{
-        title:
-        href:
-    },{
-        title: 
-        href: 
-    },{
-        title: 
-        href: 
-    },{
-        title:
-        href: 
-    },{
-        title: 
-        href:
-    },{
-        title: 
-        href: 
-        hre
-    },{
-        title: 
-        href: 
-    },{
-        title: 
-        href: 
-    },{
-        title: 
-        href: 
-    }
-]
+friends: []
